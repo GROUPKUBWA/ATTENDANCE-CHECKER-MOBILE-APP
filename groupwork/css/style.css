@@ -1,0 +1,29 @@
+
+
+#box{
+	min-width: 500px;
+	min-height: 300px;
+	border-radius: 5px black;
+	margin-top: 70px;
+
+}
+.myform {
+border: solid 2px #000000;
+margin: 0 auto;
+padding: 0px;
+
+}
+#boxi{
+	background-color: black;
+	
+	padding: 0px;
+}
+.btn{
+	padding: 7px;
+	font-size: 15px;
+	color:white;
+	background:#5F9EA0;
+	border:none;
+	border-radius: 5px;
+}
+
